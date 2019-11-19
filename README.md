@@ -1,1 +1,1 @@
-# pydemo
+# python programming exercises
