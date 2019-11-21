@@ -3,7 +3,6 @@
 
 from  socket import *
 import sys
-from time import ctime
 
 if len(sys.argv) == 3:
 	HOST = sys.argv[1]
